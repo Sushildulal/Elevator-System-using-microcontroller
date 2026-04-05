@@ -1,1 +1,2 @@
+![Project Screenshot(cktdiagram.jpeg)]
 For this particular elevator system a 3 floor elevator was designed. It consists of ground floor , first floor, second floor. when a user presses a floor button , the microcontroller identifies the request and activates the motor driver to move the elevator up and down.
