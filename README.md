@@ -1,4 +1,4 @@
-![Project Screenshot(cktdiagram.jpeg)]
+![Project Screenshot(cktdiagram.png)]
 
 
 
